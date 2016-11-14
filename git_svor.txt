@@ -1,7 +1,5 @@
-2.
+3.
 
- git clone    = "Clone-ar" github repository í nýja möppu.
- git log      =  Synir notandanum hvaða breytingar hafa átt sér stað í respositoryinu. 
- git status   =  Synir notanda stöðuna á repository og hvort breytingar hafa átt sér stað.
- git diff     =  Synir notanda allar breytingar.
- git checkout =  Leifir notanda að breyta um grein.
+ git diff          	  = Synir breytingar í núverandi staðsettningu.
+ git diff --staged 	  = Synir breytingar milli Head og Index.
+ git diff commit1 commit2 = Synir hver munur á commit1 og commit2 er Þar sem notandin skrifar nofn mappa í ser sem commit er
