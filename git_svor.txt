@@ -1,7 +1,7 @@
-1.
+2.
 
- cd    = Change Directory. Breytir um staðsettningu í console og sendir þig í byrjunar möppu ef skrifað er eitt og sér.
- cd ~  =  Gerir það sama og cd.
- ls    = List. Gefur notanda lista yfir möppur og files.
- pwd   = Current Directory. Gefur notanda upplysingar um núverandi Möppu.
- mkd   = Make Directory. Býr til nýja möppu.
+ git clone    = "Clone-ar" github repository í nýja möppu.
+ git log      =  Synir notandanum hvaða breytingar hafa átt sér stað í respositoryinu. 
+ git status   =  Synir notanda stöðuna á repository og hvort breytingar hafa átt sér stað.
+ git diff     =  Synir notanda allar breytingar.
+ git checkout =  Leifir notanda að breyta um grein.
