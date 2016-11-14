@@ -1,3 +1,4 @@
-5.
+6.	
 
- Hverjir eru helstu kostir við að nota GIT? = Margir forritarar geta unnið saman og geymt allar breytingar og kóða í sameinginlegu plássi.
+ Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu? þegar þú ert búinn að gera breytingar og þú þarft að vista, eða þegar þú vilt vista. ekki hvenar sem er svo það fillist ekki af breytingum.
+
