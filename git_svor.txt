@@ -1,3 +1,3 @@
-7.
+8.	
 
- Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT? = Working directory er þegar notandinn er að skrifa eða setja inn kóðann. Staging Area er þegar notandinn er við það að commita og repository er þegar það er búið að commita.
+ Hvenær er sniðugt að nota greinar (branches)? = þegar það er verið að vinna í mismunandi hugmyndum og verkefnum, þá getur verið gott að raða þeim í hópa eða Branches.
