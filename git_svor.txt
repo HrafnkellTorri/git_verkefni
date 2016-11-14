@@ -1,5 +1,7 @@
-3.
+1.
 
- git diff          	  = Synir breytingar í núverandi staðsettningu.
- git diff --staged 	  = Synir breytingar milli Head og Index.
- git diff commit1 commit2 = Synir hver munur á commit1 og commit2 er Þar sem notandin skrifar nofn mappa í ser sem commit er
+ cd    = Change Directory. Breytir um staðsettningu í console og sendir þig í byrjunar möppu ef skrifað er eitt og sér.
+ cd ~  =  Gerir það sama og cd.
+ ls    = List. Gefur notanda lista yfir möppur og files.
+ pwd   = Current Directory. Gefur notanda upplysingar um núverandi Möppu.
+ mkd   = Make Directory. Býr til nýja möppu.
