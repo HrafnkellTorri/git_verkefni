@@ -1,7 +1,3 @@
-1.
-
- cd    = Change Directory. Breytir um staðsettningu í console og sendir þig í byrjunar möppu ef skrifað er eitt og sér.
- cd ~  =  Gerir það sama og cd.
- ls    = List. Gefur notanda lista yfir möppur og files.
- pwd   = Current Directory. Gefur notanda upplysingar um núverandi Möppu.
- mkd   = Make Directory. Býr til nýja möppu.
+4.
+ 
+ Hvað er útgáfustýring (e.version control)? = gefur kóðanum útgáfu svo notandi getur vitað hvað er nýjast og hvað er elst.
